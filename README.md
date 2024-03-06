@@ -8,4 +8,11 @@
 -	On reaching a bus stage the conductor and driver will be notified of the number of passengers who are getting off and those that are boarding. 
 -	Made use of Google Maps API for mapping locations, routes, time and distance calculations from departure to destination points.
 ## Screenshots
+![register](https://github.com/calebomondi/TiqitiApp/assets/99415375/0f5600e8-be9b-44cf-9193-88b7b67a2d0a)
+![login](https://github.com/calebomondi/TiqitiApp/assets/99415375/5dc4cdcc-fd92-4947-9b16-d72f474c18a6)
+![destination](https://github.com/calebomondi/TiqitiApp/assets/99415375/483edd03-28b3-4645-b8e5-cfa02865bcb4)
+![route](https://github.com/calebomondi/TiqitiApp/assets/99415375/2826b2e1-97b0-4869-9509-153eb18017d8)
+![confirm](https://github.com/calebomondi/TiqitiApp/assets/99415375/894a4609-a819-4f34-bddb-dec94f458811)
+![qrticket](https://github.com/calebomondi/TiqitiApp/assets/99415375/31bf5ca4-29ac-49fc-9ea2-b7061124d247)
+![scan](https://github.com/calebomondi/TiqitiApp/assets/99415375/f7b3df2d-0426-4295-85bf-020dcc973875)
 
