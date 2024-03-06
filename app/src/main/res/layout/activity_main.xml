@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/aaaa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Kot"
+        android:textSize="25dp"
+        android:textColor="#FF0357F4"
+        android:layout_gravity="center"
+        android:layout_marginBottom="60dp"
+
+        />
+
+    <EditText
+        android:id="@+id/usernameET"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="7dp"
+        android:hint="username"
+        android:background="@drawable/custom_edit_text"
+        android:drawableLeft="@drawable/user"
+        android:paddingLeft="10dp"
+        android:drawablePadding="10dp"
+        />
+
+    <EditText
+        android:id="@+id/passET"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="7dp"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:background="@drawable/custom_edit_text"
+        android:drawableLeft="@drawable/lock"
+        android:paddingLeft="10dp"
+        android:drawablePadding="10dp"
+        />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="signin"
+        android:textColor="#fff"
+        android:layout_margin="7dp"
+        android:background="@drawable/custom_bitton"/>
+
+    <TextView
+        android:id="@+id/registerTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sign up"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+         />
+
+</LinearLayout>
